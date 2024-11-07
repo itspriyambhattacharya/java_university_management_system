@@ -69,7 +69,7 @@ UniversityManagementSystem/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/UniversityManagementSystem.git
+   git clone https://github.com/itspriyambhattacharya/java_university_management_system.git
    ```
 2. Open the project in your preferred IDE or editor.
 3. Compile and run the `Main.java` file to execute the application.
